@@ -1,0 +1,41 @@
+.body {
+  background-color: aquamarine;
+  display: inline-block;
+  width: 100%;
+  margin: 0;
+}
+.big90 {
+  background-color: blueviolet;
+  display: inline-block;
+  width: 98%;
+  margin: 1%;
+}
+.big40 {
+  background-color: lightcoral;
+  display: inline-block;
+  width: 48.5%;
+  margin-top: 0.5%;
+  margin-bottom: 0.5%;
+}
+.bigbig {
+  background-color: lightcoral;
+  display: inline-block;
+  width: 230px;
+  height: 130px;
+  margin: 1%;
+}
+.small70 {
+  background-color: aliceblue;
+  display: inline-block;
+  width: 70%;
+  margin-left: 1%;
+  margin-right: 1%;
+  margin-top: 0.5%;
+  margin-bottom: 0.5%;
+  height: 60px;
+}
+.thin30 {
+  background-color: beige;
+  height: 60px;
+  margin: 1%;
+}
